@@ -4,6 +4,7 @@
 	<title>Div and span element </title>
 </head>
 <body>
+	<h1> "My first page" </h1>
 <div>Dear all,
 <span>I took this really cool course
 </span></div>
