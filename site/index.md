@@ -22,7 +22,7 @@
 			</ul>
 			<li>Enjoy</li>
 		</ul></div>
-	<aside>some information about the content that is not directly related </aside>
-	<footer>AHSAN KHAN copyright 2022</footer>
+	<aside>This is just for my practice </aside>
+	<footer>AHSAN KHAN 2022 &copy;copyright</footer>
 </body>
 </html>
