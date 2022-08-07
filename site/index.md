@@ -6,15 +6,15 @@
 </head>
 <body>
 	<header>
-		some header information goes here like the company logo etc and sometime navigation.
-		<nav> usually contain navigation for another websites </nav>
+		Ahsankhan company
+		<nav> click here for home page </nav>
 	</header>
 	<h1> This page is about my blogs </h1>
 	<section>
 		section 1
-		<article> Here i can write as much as i want there is not constraint.
-		<article> Here also </article>
-		<article> Here as well </article>
+		<article> Article 1</article>
+		<article> Article 2 </article>
+		<article> Article 3 </article>
 	</section>
 	<section>
 		section 2
@@ -23,6 +23,7 @@
 		<article>article 5</article>
 	</section>
 	<section>
+		section 3
 		<article>article 6</article>
 		<article>article 7</article>
 		<article>article 8</article>
