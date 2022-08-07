@@ -12,8 +12,8 @@
 	<h1>Internal links</h1>
 	<section>
 		we can link this file in this same directory as this HTML file like this:
-		<a href="same directory.html" title="same dir link">Linking to file in the same directory
-		<a href="same-directory.html" title= "same dir link">
+		<a href="same directory.md" title="same dir link">Linking to file in the same directory
+		<a href="same-directory.md" title= "same dir link">
 			<div>DIV linking to a file in the same directory</div>
 		</a>
 	</section>
