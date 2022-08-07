@@ -1,25 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Div and span element </title>
+	<meta charset="utf-8">
+	<title>heading elements </title>
 </head>
 <body>
-	<h1> "My first page" </h1>
-<div>Dear all,
-<span>I took this really cool course
-</span></div>
-<span>on Coursera.org. I think it's
-my favorite course I've EVER taken!
-Here is the URL for it:
-</span>
-<a href="...">HTML, CSS and JS for Web Developers</a>
-<div>
-Does anyone know how I can give this course 6
-out of 5 stars?
-</div>
-<div>
-Thank you,
--Yaakov.... I mean a random student! Definitely not Yaakov.
-</div>
+	<header>
+		some header information goes here like the company logo etc and sometime navigation.
+		<nav> usually contain navigation for another websites </nav>
+	</header>
+	<h1> This page is about my blogs </h1>
+	<section>
+		section 1
+		<article> Here i can write as much as i want there is not constraint.
+		<article> Here also </article>
+		<article> Here as well </article>
+	</section>
+	<section>
+		section 2
+		<article>article 4</article>
+		<article>article 5</article>
+		<article>article 5</article>
+	</section>
+	<section>
+		<article>article 6</article>
+		<article>article 7</article>
+		<article>article 8</article>
+	</section>
+	<aside>some information about the content that is not directly related </aside>
+	<footer>AHSAN KHAN copyright 2022</footer>
 </body>
 </html>
