@@ -11,17 +11,17 @@
 	</header>
 	<h1> How to eat oreo </h1>
 	<div>oreo eating procedure step by step
-		<ol>
+		<ul>
 			<li>open the box</li>
 			<li>take out oreo</li>
 			<li>make a double</li>
-			<ol>
+			<ul>
 				<li>peel off the top part</li>
 				<li>place another cookie in the middle</li>
 				<li>place the top part again</li>
-			</ol>
+			</ul>
 			<li>Enjoy</li>
-		</ol></div>
+		</ul></div>
 	<aside>some information about the content that is not directly related </aside>
 	<footer>AHSAN KHAN copyright 2022</footer>
 </body>
