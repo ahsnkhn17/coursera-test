@@ -12,7 +12,7 @@
 	<h1 id="top">External links</h1>
 	<section>
 		<p>lets link to a facebook fan page that I created for myself
-			<a href="https://www.facebook.com/profile.php?id=100026836293696" target="_blank" title="like our page"></a>
+			<a href="https://www.facebook.com/profile.php?id=100026836293696" target="_blank" title="like our page"> My facebook page</a>
 		</p>
 	</section>
 	<aside>This is just for my practice </aside>
