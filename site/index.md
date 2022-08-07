@@ -7,15 +7,13 @@
 <body>
 	<header>
 		Ahsankhan company
-		<nav> click here for home page </nav>
+		<nav> <a href="https://www.facebook.com/profile.php?id=100026836293696"></a></nav>
 	</header>
-	<h1>Internal links</h1>
+	<h1 id="top">External links</h1>
 	<section>
-		we can link this file in this same directory as this HTML file like this:
-		<a href="same directory.md" title="same dir link">Linking to file in the same directory
-		<a href="same-directory.md" title= "same dir link">
-			<div>DIV linking to a file in the same directory</div>
-		</a>
+		<p>lets link to a facebook fan page that I created for myself
+			<a href="https://www.facebook.com/profile.php?id=100026836293696" target="_blank" title="like our page"></a>
+		</p>
 	</section>
 	<aside>This is just for my practice </aside>
 	<footer>AHSAN KHAN 2022 &copy;copyright</footer>
