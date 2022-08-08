@@ -19,7 +19,7 @@
 			color: red;
 			text-align: center;
 		}
-		p{
+		p.highlight{
 
 			font-size: 20px;
 			font-weight: bold;
