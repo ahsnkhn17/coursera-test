@@ -18,15 +18,8 @@
 		h2{
 			color: red;
 			text-align: center;
-		}
-		p.highlight{
-
-			font-size: 20px;
-			font-weight: bold;
-			font-style: italic;
-			background-color: green;
-			opacity: .6;
-			text-align: center;
+	
+		
 
 		}
 		#mainPoint{
@@ -40,9 +33,9 @@
 <body>
 	<h1>Simple Selector (H1)</h1>
 	<h2>Subheading 1 (H2)</h2>
-	<p class="hightlight">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus amet alias est? Nobis cum quasi at soluta odit, maiores quaerat dolores expedita ex nemo ea repellendus dolorem sed maxime quos?</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus amet alias est? Nobis cum quasi at soluta odit, maiores quaerat dolores expedita ex nemo ea repellendus dolorem sed maxime quos?</p>
 
-<p class="highlight">Paragraph with attribute class="highlight". Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+<p>Paragraph with attribute class="highlight". Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 	<h2>Subheading 2 (H2)</h2>
 	<p class="highlight">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi nemo ipsum dolores vel modi magnam veniam alias at nam. Voluptatem officiis dolor dolorem aspernatur dolorum modi ipsa, nobis animi aut!
 		<div>This is the main point of the entire article. So, attribute <span id="mainPoint">id="mainPoint</span> ".</div></p>
