@@ -1,17 +1,7 @@
-*{
-	box-sizing: border-box;
-	padding: 0;
-	margin: 0;
 
-}
-.box{
-	padding: 10px;
-	margin: 20px;
-	border: 10px solid black;
-
-
-}
-.content{
-	color: greenyellow;
-	
+.bg{
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+	background-image: url(images/upload.png);
 }
