@@ -1,3 +1,23 @@
 div{
 	background-color: skyblue;
+
+	}
+	p{
+		width: 50px;
+		height: 40px;
+		border: 1px solid black;
+	}
+}
+#p1{
+	background-color: gold;
+	float: right;
+}
+#p2{
+	background-color: greenyellow;
+}
+#p3{
+	background-color: lightgoldenrodyellow;
+}
+#p4{
+	background-color: slategray;
 }
