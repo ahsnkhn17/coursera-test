@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+p{
+	background-color: gray;
+}	
+.chicken > h2{
+	background-color: orange;
+
+}
+.beef{
+	background-color: darkred;
+}
+.sushi{
+	background-color: yellow;
+}
+section{
+	float: left;
+	margin-right: 10px;
+	width: 33.33%;
+	overflow: auto;
+}
+h1{
+	text-align: center;
+	margin-bottom: 60px;
+}
